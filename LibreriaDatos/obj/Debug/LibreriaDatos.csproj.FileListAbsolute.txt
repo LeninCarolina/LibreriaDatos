@@ -1,0 +1,11 @@
+C:\Users\Lenin Araque\source\repos\LibreriaDatos\LibreriaDatos\bin\Debug\LibreriaDatos.dll.config
+C:\Users\Lenin Araque\source\repos\LibreriaDatos\LibreriaDatos\bin\Debug\LibreriaDatos.dll
+C:\Users\Lenin Araque\source\repos\LibreriaDatos\LibreriaDatos\bin\Debug\LibreriaDatos.pdb
+C:\Users\Lenin Araque\source\repos\LibreriaDatos\LibreriaDatos\bin\Debug\EntityFramework.dll
+C:\Users\Lenin Araque\source\repos\LibreriaDatos\LibreriaDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenin Araque\source\repos\LibreriaDatos\LibreriaDatos\bin\Debug\EntityFramework.xml
+C:\Users\Lenin Araque\source\repos\LibreriaDatos\LibreriaDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenin Araque\source\repos\LibreriaDatos\LibreriaDatos\obj\Debug\LibreriaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Lenin Araque\source\repos\LibreriaDatos\LibreriaDatos\obj\Debug\LibreriaDatos.csproj.CopyComplete
+C:\Users\Lenin Araque\source\repos\LibreriaDatos\LibreriaDatos\obj\Debug\LibreriaDatos.dll
+C:\Users\Lenin Araque\source\repos\LibreriaDatos\LibreriaDatos\obj\Debug\LibreriaDatos.pdb
